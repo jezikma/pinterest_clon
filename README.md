@@ -22,4 +22,4 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experien
 ![Demo](fotos/Pinterest_screen.png)
 
 ### Contacto
-Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn](https://www.linkedin.com/in/jessica_malc/).
+Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn](https://www.linkedin.com/in/jessica-malc/).
