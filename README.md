@@ -1,4 +1,4 @@
-<img width="1418" alt="Pinterest_screen" src="https://github.com/jezikma/pinterest_clon/assets/150862669/33d8ee91-faff-4a19-b29d-16efb601bef3"># Clon de Pinterest con HTML y CSS
+# Clon de Pinterest con HTML y CSS
 Este proyecto es un clon de la interfaz de usuario de Pinterest, creado puramente con HTML5 y CSS3. 
 
 Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experiencia de navegación similar con un diseño responsive y funcionalidades básicas.
